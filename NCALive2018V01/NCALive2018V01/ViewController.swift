@@ -1,10 +1,10 @@
-//
+
 //  ViewController.swift
 //  NCALive2018V01
 //
 //  Created by jackzhou2007 on 2018/5/31.
 //  Copyright © 2018年 Jack. All rights reserved.
-//
+
 
 import UIKit
 
@@ -19,7 +19,4 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
 }
-
